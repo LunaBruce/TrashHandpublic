@@ -1,0 +1,6 @@
+@font-face {
+ font-family: trashhand;
+ font-style: normal;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/LunaBruce/TrashHandpublic/tree/main) ;
+}
